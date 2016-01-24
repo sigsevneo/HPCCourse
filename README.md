@@ -12,7 +12,7 @@ Assignment 2 over [here](http://bt.nitk.ac.in/c/16a/co460/notes/A2.pdf).
 
 - [**Booksim**](https://github.com/booksim/)
 
-- [**McPat**](https://code.google.com/archive/p/mcpat/)
+- [**McPat**](https://github.com/sigsevneo/mcpat.git)
 
-- [**ORION 3.0**](http://vlsicad.ucsd.edu/ORION3/)
+- [**ORION 3.0**](http://vlsicad.ucsd.edu/~sinath/ORION-RELATED/ORION3/ORION3_0.zip)
 

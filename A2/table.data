@@ -1,0 +1,84 @@
+19,20c19,20
+< 		<param name="core_tech_node" value="22"/><!-- nm -->
+< 		<param name="target_core_clockrate" value="1600"/><!--MHz -->
+---
+> 		<param name="core_tech_node" value="65"/><!-- nm -->
+> 		<param name="target_core_clockrate" value="3400"/><!--MHz -->
+24c24
+< 		<param name="device_type" value="2"/><!--0: HP(High Performance Type); 1: LSTP(Low standby power) 2: LOP (Low Operating Power)  -->
+---
+> 		<param name="device_type" value="0"/><!--0: HP(High Performance Type); 1: LSTP(Low standby power) 2: LOP (Low Operating Power)  -->
+41c41
+< 			<param name="clock_rate" value="800"/>
+---
+> 			<param name="clock_rate" value="3400"/>
+51c51
+< 			<param name="number_hardware_threads" value="4"/>
+---
+> 			<param name="number_hardware_threads" value="2"/>
+67c67
+< 			<param name="fp_issue_width" value="4"/>
+---
+> 			<param name="fp_issue_width" value="2"/>
+72c72
+< 			<param name="pipelines_per_core" value="19,14"/>
+---
+> 			<param name="pipelines_per_core" value="1,1"/>
+77c77
+< 			<param name="ALU_per_core" value="4"/>
+---
+> 			<param name="ALU_per_core" value="6"/>
+79c79
+< 			<param name="MUL_per_core" value="2"/>
+---
+> 			<param name="MUL_per_core" value="1"/>
+237c237
+< 				<param name="number_entries" value="64"/><!--dual threads-->
+---
+> 				<param name="number_entries" value="128"/><!--dual threads-->
+265c265
+< 				<param name="Dir_config" value="64000,64,8,1,100,100, 8"/>
+---
+> 				<param name="Dir_config" value="4096,2,0,1,100,100, 8"/>
+267c267
+< 			    <param name="buffer_sizes" value="128, 128, 128, 128"/>	
+---
+> 			    <param name="buffer_sizes" value="8, 8, 8, 8"/>	
+308c308
+< 				<param name="L2_config" value="512000,64, 8, 8, 8, 23, 32, 1"/> 
+---
+> 				<param name="L2_config" value="1048576,32, 8, 8, 8, 23, 32, 1"/> 
+310c310
+< 				<param name="buffer_sizes" value="64, 64, 64, 64"/>
+---
+> 				<param name="buffer_sizes" value="16, 16, 16, 16"/>
+328c328
+< 				<param name="L3_config" value="3000000,64,16, 8, 16, 100,1"/>
+---
+> 				<param name="L3_config" value="16777216,64,16, 16, 16, 100,1"/>
+336c336
+< 				<param name="buffer_sizes" value="32, 32, 32, 32"/>
+---
+> 				<param name="buffer_sizes" value="16, 16, 16, 16"/>
+381,382c381,382
+< 			<param name="type" value="1"/> <!-- 1: low power; 0 high performance -->
+< 			<param name="mc_clock" value="1600"/><!--DIMM IO bus clock rate MHz--> 
+---
+> 			<param name="type" value="0"/> <!-- 1: low power; 0 high performance -->
+> 			<param name="mc_clock" value="200"/><!--DIMM IO bus clock rate MHz--> 
+395c395
+< 			<param name="databus_width" value="256"/>
+---
+> 			<param name="databus_width" value="128"/>
+411c411
+< 			<param name="clockrate" value="833"/>
+---
+> 			<param name="clockrate" value="350"/>
+425c425
+< 			<param name="type" value="1"/> <!-- 1: low power; 0 high performance -->
+---
+> 			<param name="type" value="0"/> <!-- 1: low power; 0 high performance -->
+431c431
+< 			<param name="num_channels" value="32"/> <!-- 2 ,4 ,8 ,16 ,32 -->
+---
+> 			<param name="num_channels" value="8"/> <!-- 2 ,4 ,8 ,16 ,32 -->
