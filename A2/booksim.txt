@@ -1,0 +1,256 @@
+A)64 node Butterfly network.
+
+
+%=================================
+% Average latency = 41.2715
+% Accepted packets = 0 at node 29 (avg = 0.091375)
+% latency change    = 1
+% throughput change = 1
+%=================================
+% Average latency = 40.8507
+% Accepted packets = 0.0415 at node 37 (avg = 0.0935547)
+% latency change    = 0.0103011
+% throughput change = 0.0232985
+% Warmed up ...
+%=================================
+% Average latency = 42.3492
+% Accepted packets = 0.02 at node 15 (avg = 0.103031)
+% latency change    = 0.0353852
+% throughput change = 0.0919776
+%=================================
+% Average latency = 41.5375
+% Accepted packets = 0.03 at node 46 (avg = 0.0981094)
+% latency change    = 0.0195425
+% throughput change = 0.0501672
+%=================================
+% Average latency = 41.4163
+% Accepted packets = 0.0466667 at node 32 (avg = 0.0949219)
+% latency change    = 0.00292553
+% throughput change = 0.0335802
+%=================================
+% Average latency = 41.7945
+% Accepted packets = 0.05 at node 53 (avg = 0.095582)
+% latency change    = 0.00904992
+% throughput change = 0.0069067
+%=================================
+% Average latency = 41.7812
+% Accepted packets = 0.048 at node 53 (avg = 0.0960406)
+% latency change    = 0.000318874
+% throughput change = 0.004775
+%=================================
+% Average latency = 41.7274
+% Accepted packets = 0.0533333 at node 52 (avg = 0.0971198)
+% latency change    = 0.00128905
+% throughput change = 0.0111117
+%=================================
+% Average latency = 41.924
+% Accepted packets = 0.0522857 at node 52 (avg = 0.0975692)
+% latency change    = 0.00468974
+% throughput change = 0.00460601
+%=================================
+% Average latency = 41.8326
+% Accepted packets = 0.055 at node 52 (avg = 0.098127)
+% latency change    = 0.00218571
+% throughput change = 0.00568403
+% Draining all recorded packets ...
+% Draining remaining packets ...
+====== Traffic class 0 ======
+Overall average latency = 41.8517 (1 samples)
+Overall average accepted rate = 0.0981877 (1 samples)
+Overall min accepted rate = 0.0571003 (1 samples)
+
+
+
+
+
+
+
+
+
+B)8×8 2D Mesh.	
+
+
+
+
+
+
+
+%=================================
+% Average latency = 51.3951
+% Accepted packets = 0.02 at node 8 (avg = 0.0903281)
+% latency change    = 1
+% throughput change = 1
+%=================================
+% Average latency = 50.6533
+% Accepted packets = 0.04 at node 8 (avg = 0.0934922)
+% latency change    = 0.0146454
+% throughput change = 0.0338431
+% Warmed up ...
+%=================================
+% Average latency = 54.8083
+% Accepted packets = 0.02 at node 9 (avg = 0.103359)
+% latency change    = 0.0758104
+% throughput change = 0.0954649
+%=================================
+% Average latency = 54.8168
+% Accepted packets = 0.04 at node 36 (avg = 0.0976875)
+% latency change    = 0.000155517
+% throughput change = 0.0580614
+%=================================
+% Average latency = 52.6834
+% Accepted packets = 0.0333333 at node 36 (avg = 0.0948594)
+% latency change    = 0.0404955
+% throughput change = 0.0298139
+%=================================
+% Average latency = 51.7864
+% Accepted packets = 0.04 at node 36 (avg = 0.095543)
+% latency change    = 0.0173205
+% throughput change = 0.00715483
+%=================================
+% Average latency = 51.1423
+% Accepted packets = 0.0422 at node 36 (avg = 0.0956062)
+% latency change    = 0.0125949
+% throughput change = 0.000661894
+%=================================
+% Average latency = 53.5068
+% Accepted packets = 0.0633333 at node 36 (avg = 0.0971328)
+% latency change    = 0.0441901
+% throughput change = 0.0157162
+%=================================
+% Average latency = 53.7659
+% Accepted packets = 0.06 at node 36 (avg = 0.0975625)
+% latency change    = 0.00481975
+% throughput change = 0.00440423
+%=================================
+% Average latency = 53.5078
+% Accepted packets = 0.0675 at node 36 (avg = 0.0980234)
+% latency change    = 0.00482304
+% throughput change = 0.00470232
+% Draining all recorded packets ...
+% Draining remaining packets ...
+====== Traffic class 0 ======
+Overall average latency = 53.5378 (1 samples)
+Overall average accepted rate = 0.0981922 (1 samples)
+Overall min accepted rate = 0.0669228 (1 samples)
+
+
+
+
+C)8×8 2D Torus.
+
+
+
+
+
+
+%=================================
+% Average latency = 6.02008
+% Accepted packets = 0.11 at node 52 (avg = 0.147094)
+% latency change    = 1
+% throughput change = 1
+%=================================
+% Average latency = 6.04541
+% Accepted packets = 0.1275 at node 52 (avg = 0.148828)
+% latency change    = 0.00419001
+% throughput change = 0.0116535
+% Warmed up ...
+%=================================
+% Average latency = 6.0796
+% Accepted packets = 0.119 at node 5 (avg = 0.148266)
+% latency change    = 0.00562457
+% throughput change = 0.00379387
+%=================================
+% Average latency = 6.0808
+% Accepted packets = 0.133 at node 45 (avg = 0.150008)
+% latency change    = 0.00019661
+% throughput change = 0.011614
+%=================================
+% Average latency = 6.08713
+% Accepted packets = 0.136667 at node 14 (avg = 0.15001)
+% latency change    = 0.00104111
+% throughput change = 1.73599e-05
+%=================================
+% Average latency = 6.08757
+% Accepted packets = 0.1365 at node 14 (avg = 0.149781)
+% latency change    = 7.10168e-05
+% throughput change = 0.00153001
+%=================================
+% Average latency = 6.08925
+% Accepted packets = 0.1388 at node 5 (avg = 0.149472)
+% latency change    = 0.000275773
+% throughput change = 0.00206979
+% Draining all recorded packets ...
+% Draining remaining packets ...
+====== Traffic class 0 ======
+Overall average latency = 6.09093 (1 samples)
+Overall average accepted rate = 0.149475 (1 samples)
+Overall min accepted rate = 0.138551 (1 samples)
+
+
+
+
+
+D)64 node Concentrated Mesh (C-Mesh).
+
+
+
+
+
+%=================================
+% Average latency = 51.3951
+% Accepted packets = 0.02 at node 8 (avg = 0.0903281)
+% latency change    = 1
+% throughput change = 1
+%=================================
+% Average latency = 50.6533
+% Accepted packets = 0.04 at node 8 (avg = 0.0934922)
+% latency change    = 0.0146454
+% throughput change = 0.0338431
+% Warmed up ...
+%=================================
+% Average latency = 54.8083
+% Accepted packets = 0.02 at node 9 (avg = 0.103359)
+% latency change    = 0.0758104
+% throughput change = 0.0954649
+%=================================
+% Average latency = 54.8168
+% Accepted packets = 0.04 at node 36 (avg = 0.0976875)
+% latency change    = 0.000155517
+% throughput change = 0.0580614
+%=================================
+% Average latency = 52.6834
+% Accepted packets = 0.0333333 at node 36 (avg = 0.0948594)
+% latency change    = 0.0404955
+% throughput change = 0.0298139
+%=================================
+% Average latency = 51.7864
+% Accepted packets = 0.04 at node 36 (avg = 0.095543)
+% latency change    = 0.0173205
+% throughput change = 0.00715483
+%=================================
+% Average latency = 51.1423
+% Accepted packets = 0.0422 at node 36 (avg = 0.0956062)
+% latency change    = 0.0125949
+% throughput change = 0.000661894
+%=================================
+% Average latency = 53.5068
+% Accepted packets = 0.0633333 at node 36 (avg = 0.0971328)
+% latency change    = 0.0441901
+% throughput change = 0.0157162
+%=================================
+% Average latency = 53.7659
+% Accepted packets = 0.06 at node 36 (avg = 0.0975625)
+% latency change    = 0.00481975
+% throughput change = 0.00440423
+%=================================
+% Average latency = 53.5078
+% Accepted packets = 0.0675 at node 36 (avg = 0.0980234)
+% latency change    = 0.00482304
+% throughput change = 0.00470232
+% Draining all recorded packets ...
+% Draining remaining packets ...
+====== Traffic class 0 ======
+Overall average latency = 53.5378 (1 samples)
+Overall average accepted rate = 0.0981922 (1 samples)
+Overall min accepted rate = 0.0669228 (1 samples)
+
